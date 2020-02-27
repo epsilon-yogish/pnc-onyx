@@ -1,0 +1,51 @@
+{
+    "homeBanner":{
+        "title":"Redeem your points for<br/> a variety of rewards",
+        "buttonText": "Rewards Catalog"
+    },
+    "boxData":[
+        {
+            "src":"./images/flight.svg",
+            "alt":"flight",
+            "title":"Travel",
+            "desc":"Book flights, hotels, car rentals and more.",
+            "btnText":"Book Now"
+        },
+        {
+            "src":"./images/gift-card.svg",
+            "alt":"gift card",
+            "title":"Gift Cards",
+            "desc":"Browse through our extensive library of gift cards from various vendors.",
+            "btnText":"Start Shopping"
+        }
+    ],
+    "rewards":[
+        {
+            "src":"./images/Image-sub-egift.jpg",
+            "alt":"Image-sub-egift",
+            "title":"Faster Rewards",
+            "desc":"Static or targeted content displayed here.",
+            "btnText":"Shop-eGift-Cards",
+            "caption":"Get Rewards with",
+            "captionTitle":"Shop-eGift-Cards"
+        },
+        {
+            "src":"./images/Image-sub-rewards.jpg",
+            "alt":"Image-sub-rewards",
+            "title":"Get Reward",
+            "desc":"Static or targeted content displayed here.",
+            "btnText":"Explore Rewards",
+            "caption":"More ways to",
+            "captionTitle":"Reward yourself"
+        },
+        {
+            "src":"./images/Image-sub-paradise.jpg",
+            "alt":"Image-sub-paradise",
+            "title":"Book Travel",
+            "desc":"Static or targeted content displayed here.",
+            "btnText":"Explore Escapes",
+            "caption":"Points for",
+            "captionTitle":"Paradise"
+        }
+    ]
+}
